@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Travel webpage</title>
+        <style>
+        
+        #North-Korea {
+            background-image:linear-gradient(blue, white);
+            text-align:center;
+        }
+        
+        #metro {
+            display: block;
+    margin-left: auto;
+    margin-right: auto;
+            width: 500px;
+        }
+        
+        h2 {
+            color:rgb(0, 50, 100);
+            text-align:center;
+            text-decoration:underline;
+        }
+        
+        
+        #kim{
+           display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+        }
+        p{
+            text-indent:50px;
+        }
+        
+        </style>
+        
+    </head>
+    <body>
+    
+        <h1 id="North-Korea">Travel to North Korea</h1>
+        
+        <h2> We have a great leader.
+        </h2>
+        
+        <img id="kim" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/Kim_Jung-Un_-_Inter_Korean_Summit%28cropped%29_v8.jpg" alt="A photo of Kim Jong-Un, the leader of North Korea" width="200">
+        
+        <p>One of the main reasons any tourists should visit North Korea is because there is a great government and futhermore, has a great leader; Kim Jong-Un. Kim Jong-Un is a great leader and has accomplished many great tasks, here are just a few examples that were published in North Korean media:</p>
+        
+        <ol>
+        <li><strong>He raced a yacht at age nine and sensationally won.</strong></li>
+        <li><strong>He is a proficient artist and a world-class music composer.</strong></li>
+        <li><strong>He could drive by the time he was three-years-old.</strong></li>
+        </ol>
+        
+        <h2>Unique Cultures and Traditions</h2>
+        
+        <img id="metro" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Pyongyang_Metro_-_Jonsung_Station_%2815525119056%29.jpg/1200px-Pyongyang_Metro_-_Jonsung_Station_%2815525119056%29.jpg">
+        
+        <p>In North Korea you are able to discover many unique and fascinating traditions. There are many examples of this throughout all part of North Korea however after many lifetimes of research I have come up with an extensive list of attractions in North Korea.
+        
+         <ul>
+        <li><strong>North Korean Military Parade</strong>, In 2018, North Korea had a very unique 70th anniversary military parade featuring large parades and festivals</li>
+        <li><strong>Pyongyang Metro</strong>, One of the greatest architectural phenomenons in North Korea is the Pyongyang Metro. Itis a wonderfully built civilian metro and had many mesmerising murals of former North Korean greats.</li>
+        </ul>
+        
+    </body>
+</html>
